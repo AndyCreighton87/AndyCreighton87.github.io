@@ -35,3 +35,21 @@ Copied from the supplied Desktop/Portfolio folder; originals were left unchanged
 - 643x0w.jpg: alternate Take That welcome screen; the six selected screenshots cover more systems.
 - tt_splash_bg.png: the image reader could not decode this file; a working cover was available.
 - Classified ss_97bdcd6c4721e5daae79af82563aed059d16ed62.1920x1080.jpg: alternate tactical view; omitted to avoid repetition.
+
+## Replacement covers and VDS gallery
+
+The following replace the previous Take That cover and all six former VDS gallery images. Starfall and Pinball now also have covers. Old source files remain unchanged.
+
+| Original file | Current website file |
+| --- | --- |
+| TakeThatCover.jpg | assets/take-that-this-life-cover.jpg |
+| StarfallCover.jpg | assets/starfall-commander-cover.jpg |
+| PinballCover.jpg | assets/pinball-lockdown-freedom-cover.jpg |
+| NewVDSScreenShots/ss_15a2bc9e5bc4c37b05c7294b00b885dec6055ed7.1920x1080.jpg | assets/virtual-driving-school-new-1.jpg |
+| NewVDSScreenShots/ss_32b2eac61d46995f367c2a93d3df895450650efa.1920x1080.jpg | assets/virtual-driving-school-new-2.jpg |
+| NewVDSScreenShots/ss_4920e57848987f699ee7ec481366dc2e9405bbbb.1920x1080.jpg | assets/virtual-driving-school-new-3.jpg |
+| NewVDSScreenShots/ss_4e9897ab087c2fa1ecd423c09d0b3d7cc1f5307e.1920x1080.jpg | assets/virtual-driving-school-new-4.jpg |
+| NewVDSScreenShots/ss_a73aef1e8d9160d5b30836846221a5ad25bf8490.1920x1080.jpg | assets/virtual-driving-school-new-5.jpg |
+| NewVDSScreenShots/ss_b7f28f4d1edef7cfe221ce6d4c05878b4adf19fc.1920x1080.jpg | assets/virtual-driving-school-new-6.jpg |
+| NewVDSScreenShots/ss_d789112d49344c89b8861e14d6eacc7ac71d61d0.1920x1080.jpg | assets/virtual-driving-school-new-7.jpg |
+| NewVDSScreenShots/ss_e61bb98cb7ef9b7bda6584206a6438a73c618868.1920x1080.jpg | assets/virtual-driving-school-new-8.jpg |

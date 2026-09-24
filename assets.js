@@ -6,12 +6,12 @@ window.PORTFOLIO_ASSETS = {
   "jinx": "",
   "images": {
     "virtual-driving-school-cover": "assets/virtual-driving-school-cover.jpg",
-    "take-that-this-life-cover": "assets/take-that-this-life-cover.png",
+    "take-that-this-life-cover": "assets/take-that-this-life-cover.jpg",
     "classified-france-44-cover": "assets/classified-france-44-cover.jpg",
-    "starfall-commander-cover": "",
-    "pinball-lockdown-freedom-cover": "",
-    "virtual-driving-school-gallery-1": "assets/virtual-driving-school-city-traffic.png",
-    "virtual-driving-school-gallery-2": "assets/virtual-driving-school-town-driving.jpg",
+    "starfall-commander-cover": "assets/starfall-commander-cover.jpg",
+    "pinball-lockdown-freedom-cover": "assets/pinball-lockdown-freedom-cover.jpg",
+    "virtual-driving-school-gallery-1": "assets/virtual-driving-school-new-1.jpg",
+    "virtual-driving-school-gallery-2": "assets/virtual-driving-school-new-2.jpg",
     "take-that-this-life-gallery-1": "assets/take-that-this-life-puzzles.png",
     "take-that-this-life-gallery-2": "assets/take-that-this-life-matching.png",
     "classified-france-44-gallery-1": "assets/classified-france-44-loadout.jpg",
@@ -19,10 +19,10 @@ window.PORTFOLIO_ASSETS = {
     "starfall-commander-gallery-1": "",
     "pinball-lockdown-freedom-gallery-1": "",
     "pinball-lockdown-freedom-gallery-2": "",
-    "virtual-driving-school-gallery-3": "assets/virtual-driving-school-level-crossing.jpg",
-    "virtual-driving-school-gallery-4": "assets/virtual-driving-school-cockpit-view.jpg",
-    "virtual-driving-school-gallery-5": "assets/virtual-driving-school-manoeuvres.jpg",
-    "virtual-driving-school-gallery-6": "assets/virtual-driving-school-driving-lesson.jpg",
+    "virtual-driving-school-gallery-3": "assets/virtual-driving-school-new-3.jpg",
+    "virtual-driving-school-gallery-4": "assets/virtual-driving-school-new-4.jpg",
+    "virtual-driving-school-gallery-5": "assets/virtual-driving-school-new-5.jpg",
+    "virtual-driving-school-gallery-6": "assets/virtual-driving-school-new-6.jpg",
     "take-that-this-life-gallery-3": "assets/take-that-this-life-rewards.png",
     "take-that-this-life-gallery-4": "assets/take-that-this-life-areas.png",
     "take-that-this-life-gallery-5": "assets/take-that-this-life-daily-spin.png",
@@ -30,6 +30,8 @@ window.PORTFOLIO_ASSETS = {
     "classified-france-44-gallery-3": "assets/classified-france-44-tactical-ui.jpg",
     "classified-france-44-gallery-4": "assets/classified-france-44-campaign-map.jpg",
     "classified-france-44-gallery-5": "assets/classified-france-44-basecamp.jpg",
-    "classified-france-44-gallery-6": "assets/classified-france-44-factions.jpg"
+    "classified-france-44-gallery-6": "assets/classified-france-44-factions.jpg",
+    "virtual-driving-school-gallery-7": "assets/virtual-driving-school-new-7.jpg",
+    "virtual-driving-school-gallery-8": "assets/virtual-driving-school-new-8.jpg"
   }
 };
