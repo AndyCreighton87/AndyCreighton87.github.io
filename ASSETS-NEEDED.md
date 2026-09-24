@@ -1,34 +1,24 @@
-# Assets to finish the portfolio
+# Remaining portfolio assets
 
-Place images in `assets/`, then set their paths in `assets.js`. Empty entries intentionally retain visible placeholders. Project imagery should be original exports, without the Adobe preview toolbar or surrounding page text.
+## Still needed
 
-| Key in assets.js | Original needed |
-| --- | --- |
-| virtual-driving-school-cover | Driving School cover, ideally 1600 × 1000 or larger |
-| take-that-this-life-cover | Take That cover |
-| classified-france-44-cover | Classified cover |
-| starfall-commander-cover | Starfall cover |
-| pinball-lockdown-freedom-cover | Pinball cover |
-| virtual-driving-school-gallery-1 / -2 | Driving environment and vehicle/traffic AI screenshots |
-| take-that-this-life-gallery-1 / -2 | Match-3 gameplay and progression/rewards screens |
-| classified-france-44-gallery-1 / -2 | Tactical gameplay and UI screenshots |
-| starfall-commander-gallery-1 | Gameplay still or original animated GIF |
-| pinball-lockdown-freedom-gallery-1 / -2 | One screenshot from each game |
-| jinx | Original transparent Jinx characters PNG or GIF |
-| cv | Current CV PDF |
-| linkedin | Full verified LinkedIn profile URL |
+- **Starfall: Commander:** homepage cover, original gameplay images/video/GIF, full-resolution behaviour tree and code images. The recovered Adobe screenshots remain in its gallery for now.
+- **Pinball Lockdown / Freedom:** homepage cover and gameplay screenshots from both games.
+- **Jinx:** original transparent characters PNG/GIF. Contact still uses the characters recovered from the Adobe screenshot.
+- **CV:** the current PDF.
+- **LinkedIn:** the full profile URL.
 
-Cover tiles crop to approximately 1.62:1. Keep important logos and artwork near the centre. Galleries preserve each original image's aspect ratio. Add additional figures directly to the relevant project HTML if needed.
+## Added from Desktop/Portfolio
 
-## Recovered from the supplied screenshots
+- Virtual Driving School: cover and six gallery images.
+- Take That: This Life: portrait cover and six mobile gallery images.
+- Classified: France '44: cover and six gallery images.
+- Formula Retro Racing: World Tour: cover beside the small homepage credit. Gameplay screenshots remain in the source folder because this project has no dedicated page.
 
-- Contact uses the actual Jinx characters from `contact-reference.png`. CSS hides the surrounding page. It is static; the original animation is still needed if the Adobe page was animated.
-- Starfall includes the behaviour tree, UI gameplay and build queue code from supplied screenshots. Replace the corresponding `reference-window` markup with a normal image when full-resolution originals are available. Do not enlarge low-resolution code expecting it to become readable.
-- The screenshot confirms the email address `andrewcreighton87@gmail.com`. GitHub is connected to the verified `AndyCreighton87` profile. The LinkedIn destination is still needed; its header icon leads to the Contact entry until configured.
-- The CV page supplies an experience summary and a working email request link until the actual PDF is added. It is not a replacement CV.
+The source folder was left unchanged. ASSET-INVENTORY.md maps imported files to their original names and records unused alternatives.
 
-## Optional media
+## Adding replacements
 
-For a Starfall or Driving School video, replace a gallery placeholder with a native `<video controls preload="metadata">` element and your local MP4 source. Provide captions for spoken audio and a descriptive caption below. Do not use autoplay. No video URL was supplied.
+Put originals in assets/. Update cover paths, CV, LinkedIn and Jinx in assets.js. Filled galleries use normal images in their project HTML so they also work without JavaScript; edit those image paths and captions directly. Empty Starfall/Pinball gallery slots still support the asset-map keys.
 
-The homepage screenshot and full original project images are still needed for a pixel-level comparison with Adobe. Project text follows the agreed draft from the earlier conversation and can be refined directly in the HTML.
+The Take That cover is shown in full, with white space on either side, to preserve its portrait composition. A landscape cover can replace it later; remove tile-portrait from its homepage tile when doing so.

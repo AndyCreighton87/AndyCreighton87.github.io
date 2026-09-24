@@ -6,7 +6,7 @@ A plain HTML/CSS website with a small optional JavaScript asset loader. No frame
 
 - Edit the text directly in the relevant `.html` file. Each of the five projects has its own page.
 - `styles.css` contains the shared near-black theme, spacing, responsive layout and hover effects.
-- `assets.js` is the single place to connect original cover images, gallery screenshots, the CV PDF and profile URLs. Use relative image paths such as `assets/virtual-driving-school-cover.jpg`.
+- `assets.js` connects cover images, empty gallery slots, the CV PDF and profile URLs. Filled galleries use ordinary image elements in the project HTML. Use relative paths such as `assets/virtual-driving-school-cover.jpg`.
 - The site remains readable and navigable without JavaScript. Optional images and configured external links are enhanced by JavaScript. For a fully JavaScript-free version, put those assets directly into the HTML.
 
 ## GitHub Pages
