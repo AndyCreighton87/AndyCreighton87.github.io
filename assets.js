@@ -1,6 +1,6 @@
 // Cover images and optional links. Gallery images are also referenced directly in the project HTML.
 window.PORTFOLIO_ASSETS = {
-  "cv": "",
+  "cv": "assets/AndyCreightonCV.pdf",
   "linkedin": "",
   "jinx": "",
   "images": {
