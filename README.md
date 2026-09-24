@@ -21,10 +21,11 @@ See `ASSETS-NEEDED.md` for the image inventory and remaining content. The design
 
 ## Typography and reference material
 
-Bebas Neue is bundled locally, with its SIL Open Font License in `assets/FONT-LICENSE.txt`. Font source: https://github.com/google/fonts/tree/main/ofl/bebasneue
+Rajdhani SemiBold provides the technical character of headings and navigation; Inter keeps body text easy to read in mixed case. Both are bundled locally under the SIL Open Font License (see `assets/RAJDHANI-LICENSE.txt` and `assets/INTER-LICENSE.txt`). Sources: https://github.com/google/fonts/tree/main/ofl/rajdhani and https://github.com/google/fonts/tree/main/ofl/inter
 
 The supplied Adobe screenshots establish the black background, condensed uppercase type, sparse layouts, and Contact artwork. Screenshot-derived Starfall and Jinx images are displayed through CSS windows so that surrounding old page text is hidden; the original files are retained unmodified. These are interim, lower-resolution references. Replace them with the original assets when available. The exact homepage screenshot was not returned by the attachment retrieval, so its header and grid follow the detailed design description in the original conversation.
 
 ## Checks performed
 
 JavaScript syntax, local page/asset links, desktop layout, narrow-screen reflow, project navigation, Contact artwork and reference galleries. See the delivery note for any limitations discovered during verification.
+
