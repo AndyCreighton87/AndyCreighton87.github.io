@@ -12,11 +12,11 @@ document.querySelectorAll('[data-cover], [data-image-key]').forEach(slot => {
   else {image.className='gallery-image';slot.replaceWith(image);}
  }; image.src = source;
 });
-['linkedin','github'].forEach(kind => {
+['linkedin'].forEach(kind => {
  const url=assets[kind]; if(typeof url !== 'string' || !url.startsWith('https://')) return;
  document.querySelectorAll('[data-profile="'+kind+'"], .socials a[href="contact.html#'+kind+'"]').forEach(el=>{
-  if(el.tagName==='A'){el.href=url;el.setAttribute('aria-label',kind==='linkedin'?'LinkedIn profile':'GitHub profile');}
-  else {const a=document.createElement('a');a.href=url;a.textContent=kind==='linkedin'?'LinkedIn':'GitHub';el.replaceWith(a);}
+  if(el.tagName==='A'){el.href=url;el.setAttribute('aria-label','LinkedIn profile');}
+  else {const a=document.createElement('a');a.href=url;a.textContent='LinkedIn';el.replaceWith(a);}
  });
 });
 if(safePath(assets.cv)){const box=document.querySelector('#cv-download');if(box){const a=document.createElement('a');a.href=assets.cv;a.textContent='Download CV (PDF)';a.setAttribute('download','');box.replaceChildren(a);}}

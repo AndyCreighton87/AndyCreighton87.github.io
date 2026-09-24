@@ -2,7 +2,6 @@
 window.PORTFOLIO_ASSETS = {
   "cv": "",
   "linkedin": "",
-  "github": "https://github.com/AndyCreighton87",
   "jinx": "",
   "images": {
     "virtual-driving-school-cover": "assets/virtual-driving-school-cover.jpg",
@@ -16,7 +15,6 @@ window.PORTFOLIO_ASSETS = {
     "take-that-this-life-gallery-2": "assets/take-that-this-life-matching.png",
     "classified-france-44-gallery-1": "assets/classified-france-44-loadout.jpg",
     "classified-france-44-gallery-2": "assets/classified-france-44-combat.jpg",
-    "starfall-commander-gallery-1": "",
     "pinball-lockdown-freedom-gallery-1": "",
     "pinball-lockdown-freedom-gallery-2": "",
     "virtual-driving-school-gallery-3": "assets/virtual-driving-school-new-3.jpg",
