@@ -5,7 +5,6 @@
 - **Starfall: Commander:** original gameplay images, full-resolution behaviour tree and code images. The recovered Adobe screenshots remain in its gallery for now.
 - **Pinball Lockdown / Freedom:** gameplay screenshots from both games.
 - **Jinx:** original transparent characters PNG/GIF. Contact still uses the characters recovered from the Adobe screenshot.
-- **LinkedIn:** the full profile URL.
 
 ## Added from Desktop/Portfolio
 

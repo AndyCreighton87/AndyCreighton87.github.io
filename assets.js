@@ -1,7 +1,7 @@
 // Cover images and optional links. Gallery images are also referenced directly in the project HTML.
 window.PORTFOLIO_ASSETS = {
   "cv": "assets/AndyCreightonCV.pdf",
-  "linkedin": "",
+  "linkedin": "https://www.linkedin.com/in/andy-creighton-a50040180/",
   "jinx": "",
   "images": {
     "virtual-driving-school-cover": "assets/virtual-driving-school-cover.jpg",
