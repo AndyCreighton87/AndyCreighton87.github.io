@@ -3,7 +3,7 @@
 ## Still needed
 
 - **Starfall: Commander:** original gameplay images, full-resolution behaviour tree and code images. The recovered Adobe screenshots remain in its gallery for now.
-- **Pinball Lockdown / Freedom:** gameplay screenshots from both games.
+- **Pinball Lockdown / Freedom:** optional Pinball Lockdown screenshots; six Pinball Freedom screenshots are now included.
 - **Jinx:** original transparent characters PNG/GIF. Contact still uses the characters recovered from the Adobe screenshot.
 
 ## Added from Desktop/Portfolio
@@ -17,7 +17,8 @@ The source folder was left unchanged. ASSET-INVENTORY.md maps imported files to 
 
 ## Adding replacements
 
-Put originals in assets/. Update cover paths, CV, LinkedIn and Jinx in assets.js. Filled galleries use normal images in their project HTML so they also work without JavaScript; edit those image paths and captions directly. Empty Pinball gallery slots still support the asset-map keys.
+Put originals in assets/. Update cover paths, CV, LinkedIn and Jinx in assets.js. Filled galleries use normal images in their project HTML so they also work without JavaScript; edit those image paths and captions directly. The Pinball gallery now contains six supplied Pinball Freedom images.
 
 
 Starfall and Pinball homepage covers have now been supplied and added.
+

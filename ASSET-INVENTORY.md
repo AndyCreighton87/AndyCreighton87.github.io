@@ -53,3 +53,13 @@ The following replace the previous Take That cover and all six former VDS galler
 | NewVDSScreenShots/ss_b7f28f4d1edef7cfe221ce6d4c05878b4adf19fc.1920x1080.jpg | assets/virtual-driving-school-new-6.jpg |
 | NewVDSScreenShots/ss_d789112d49344c89b8861e14d6eacc7ac71d61d0.1920x1080.jpg | assets/virtual-driving-school-new-7.jpg |
 | NewVDSScreenShots/ss_e61bb98cb7ef9b7bda6584206a6438a73c618868.1920x1080.jpg | assets/virtual-driving-school-new-8.jpg |
+
+## Pinball Freedom gallery
+
+Six original 1280 x 720 JPG screenshots added on 25 September 2026.
+- Pinball/NSwitchDS_PinballFreedom_01.jpg -> assets/pinball-freedom-1.jpg
+- Pinball/NSwitchDS_PinballFreedom_02.jpg -> assets/pinball-freedom-2.jpg
+- Pinball/NSwitchDS_PinballFreedom_03.jpg -> assets/pinball-freedom-3.jpg
+- Pinball/NSwitchDS_PinballFreedom_04.jpg -> assets/pinball-freedom-4.jpg
+- Pinball/NSwitchDS_PinballFreedom_05.jpg -> assets/pinball-freedom-5.jpg
+- Pinball/NSwitchDS_PinballFreedom_06.jpg -> assets/pinball-freedom-6.jpg

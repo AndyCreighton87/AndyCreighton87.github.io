@@ -15,8 +15,8 @@ window.PORTFOLIO_ASSETS = {
     "take-that-this-life-gallery-2": "assets/take-that-this-life-matching.png",
     "classified-france-44-gallery-1": "assets/classified-france-44-loadout.jpg",
     "classified-france-44-gallery-2": "assets/classified-france-44-combat.jpg",
-    "pinball-lockdown-freedom-gallery-1": "",
-    "pinball-lockdown-freedom-gallery-2": "",
+    "pinball-lockdown-freedom-gallery-1": "assets/pinball-freedom-1.jpg",
+    "pinball-lockdown-freedom-gallery-2": "assets/pinball-freedom-2.jpg",
     "virtual-driving-school-gallery-3": "assets/virtual-driving-school-new-3.jpg",
     "virtual-driving-school-gallery-4": "assets/virtual-driving-school-new-4.jpg",
     "virtual-driving-school-gallery-5": "assets/virtual-driving-school-new-5.jpg",
@@ -33,3 +33,4 @@ window.PORTFOLIO_ASSETS = {
     "virtual-driving-school-gallery-8": "assets/virtual-driving-school-new-8.jpg"
   }
 };
+
